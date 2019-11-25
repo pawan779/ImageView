@@ -20,7 +20,6 @@
             android:id="@+id/btnRonaldo"
             style="@style/btnStyle"
             android:text="Ronaldo"
-            android:checked="true"
             />
 
         <RadioButton
